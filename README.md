@@ -68,7 +68,8 @@ This free QA tool is part of **KineticCraft Studio** on **Agensi.io**:
 - **Carousel Motion Forge** — One JSON brief → pixel-exact Instagram 4:5, LinkedIn PDF, and 9:16 animated Reels.
 - **KineticCraft Pro Suite** — All core motion systems bundled with a 1-command launcher.
 
-👉 **Explore the full suite on Agensi.io:** https://www.agensi.io *(creator storefront link updated upon listing approval)*
+👉 **Install free on Agensi.io:** https://www.agensi.io/skills/motion-preflight-qa-reels-safe-area-ffmpeg-video-audit  
+👉 **Explore the full KineticCraft Studio storefront:** https://www.agensi.io/creators/srinath-nanda-kumar
 
 ---
 
