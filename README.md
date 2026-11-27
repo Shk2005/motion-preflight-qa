@@ -54,6 +54,7 @@ Supported platforms: `reels`, `tiktok`, `shorts`, `youtube`, `linkedin`, `square
 
 ## More motion tooling
 
+- Companion 60fps HTML-to-MP4 engine: [Shk2005/code-motion-studio](https://github.com/Shk2005/code-motion-studio)
 - Install free on Agensi: [Motion Preflight QA listing](https://www.agensi.io/skills/motion-preflight-qa-reels-safe-area-ffmpeg-video-audit)
 - Full creator storefront (Motion DNA Studio, Carousel Motion Forge, Beat-Sync Motion Engine, KineticCraft Pro Suite): [agensi.io/creators/srinath-nanda-kumar](https://www.agensi.io/creators/srinath-nanda-kumar)
 
