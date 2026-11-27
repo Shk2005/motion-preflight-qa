@@ -56,7 +56,6 @@ Supported platforms: `reels`, `tiktok`, `shorts`, `youtube`, `linkedin`, `square
 
 - Install free on Agensi: [Motion Preflight QA listing](https://www.agensi.io/skills/motion-preflight-qa-reels-safe-area-ffmpeg-video-audit)
 - Full creator storefront (Motion DNA Studio, Carousel Motion Forge, Beat-Sync Motion Engine, KineticCraft Pro Suite): [agensi.io/creators/srinath-nanda-kumar](https://www.agensi.io/creators/srinath-nanda-kumar)
-- Companion skills repo: [Shk2005/motion-graphics](https://github.com/Shk2005/motion-graphics)
 
 ## License
 
